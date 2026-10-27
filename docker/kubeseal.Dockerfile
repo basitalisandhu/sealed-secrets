@@ -1,4 +1,4 @@
-FROM gcr.io/distroless/static@sha256:9e0130bec991f471279b70f1630ada11e46dad439ef2949544f96001225329fb
+FROM gcr.io/distroless/static@sha256:15f8637509792e05b97d83451b0b6ccfa4abd548f997e406ac1e72c87fe1fa78
 LABEL maintainer "Sealed Secrets <sealed-secrets.pdl@broadcom.com>"
 
 USER 1001
